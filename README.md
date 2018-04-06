@@ -1,6 +1,5 @@
 # team_under_cover
-# TEAM UNDER COVER
-<!-- April 5, 2018
+April 5, 2018
 OVERVIEW
 1.	Project Background and Description
 Can you really judge a book by its cover? We intend to use machine learning to find out! We will use machine learning to create models for the best and worst amazon reviewed book covers and create a model that will allow a user to upload a book cover image and receive a predicted review score.
@@ -23,4 +22,3 @@ Word Analysis page with word count and unique word count data
 	Word to unique word ratio, either hear map or layered historgram
 By Genre and Song page that allows drill down
 	Attempting checkboxes to filter chart
- -->
